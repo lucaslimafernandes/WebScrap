@@ -34,8 +34,8 @@ busca.send_keys('Gramado')
 data = browser.find_element_by_xpath("//span[@class='sb-date-field__icon sb-date-field__icon-btn bk-svg-wrapper calendar-restructure-sb']")
 data.click()
 
-data_in = '2021-08-02'
-data_out = '2021-08-05'
+data_in = '2021-09-15'
+data_out = '2021-09-22'
 
 #Preenchendo as datas
 data = browser.find_element_by_xpath(f"//td[@data-date='{data_in}']")
