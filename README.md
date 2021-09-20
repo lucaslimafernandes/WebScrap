@@ -18,3 +18,7 @@ Script feito usando o Selenium para automação do browser.
 Realiza a busca no site www.booking.com pela cidade e tempo de estadio, raspa os nomes, notas, preços e a distância do hotel ao centro da cidade e salva em arquivo XLSX.
 Script feito usando Selenium para automação do browser.
 Como sugestão futura, necessário verificar a automação para buscar todas as páginas da busca.
+
+
+## zoom.py
+Pesquisa simples no zoom, necessário desenvolver mais o script.
